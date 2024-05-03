@@ -20,8 +20,8 @@
             "id": "a3",
             "text": "I've got the same problem here. I decided to change my platform so that I can make it easier. No more problems, so I recomend that for u too :)",
             "votes": 10,
-          },
-        ],
+          }
+        ]
       }
     ]
   },
@@ -42,8 +42,8 @@
           { "id": "a1", "text": "No", "votes": 1 },
           { "id": "a2", "text": "Yes", "votes": 3 },
           { "id": "a3", "text": "Maybe", "votes": 1 },
-        ],
-      },
+        ]
+      }
     ]
   },
 ]
