@@ -24,5 +24,26 @@
         ]
       }
     ]
+  },
+  {
+    "id": "2",
+    "name": "Lucas",
+    "loggedIn": false,
+    "email": "Lucas@gmail.com",
+    "password": "lulucaca",
+    "threads": [
+      {
+        "id": "t2",
+        "tag": "fun",
+        "owner": "unknow",
+        "topic": "Is there bread in sky?",
+        "content": "",
+        "answers": [
+          { "id": "a1", "text": "No", "votes": 1 },
+          { "id": "a2", "text": "Yes", "votes": 3 },
+          { "id": "a3", "text": "Maybe", "votes": 1 }
+        ]
+      }
+    ]
   }
 ]
