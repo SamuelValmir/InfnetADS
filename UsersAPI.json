@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "name": "Switch",
+    "loggedIn": true,
+    "email": "Switch@gmail.com",
+    "password": "1234",
+    "threads": [
+      {
+        "id": "t1",
+        "tag": "tech",
+        "owner": "Switch",
+        "topic": "How can I solve it?",
+        "content":
+          "I've tried so many times but the bug remains though! I'm tired, I swear!",
+        "answers": [
+          { "id": "a1", "text": "Try this", "votes": 4 },
+          { "id": "a2", "text": "Do that", "votes": 3 },
+          {
+            "id": "a3",
+            "text": "I've got the same problem here. I decided to change my platform so that I can make it easier. No more problems, so I recomend that for u too :)",
+            "votes": 10,
+          },
+        ],
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Lucas",
+    "loggedIn": false,
+    "email": "Lucas@gmail.com",
+    "password": "lulucaca",
+    "threads": [
+      {
+        "id": "t2",
+        "tag": "fun",
+        "owner": "unknow",
+        "topic": "Is there bread in sky?",
+        "content": "",
+        "answers": [
+          { "id": "a1", "text": "No", "votes": 1 },
+          { "id": "a2", "text": "Yes", "votes": 3 },
+          { "id": "a3", "text": "Maybe", "votes": 1 },
+        ],
+      },
+    ]
+  },
+]
