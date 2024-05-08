@@ -22,6 +22,35 @@
             "votes": 10
           }
         ]
+      },
+      {
+        "id": "t2",
+        "tag": "tech",
+        "owner": "Rafael",
+        "topic": "Anyone use this?",
+        "content":
+          "I'm a beginner",
+        "answers": [
+          { "id": "a1", "text": "I've never used before!", "votes": 0 },
+          { "id": "a2", "text": "Not the best tool", "votes": 2 },
+          {
+            "id": "a3",
+            "text": "I like it!",
+            "votes": 5
+          }
+        ]
+      },
+       {
+        "id": "t3",
+        "tag": "fun",
+        "owner": "unknow",
+        "topic": "1000 - 7",
+        "content": "",
+        "answers": [
+          { "id": "a1", "text": "Oshiette yo!", "votes": 23 },
+          { "id": "a2", "text": "993", "votes": 3 },
+          { "id": "a3", "text": "Hummm", "votes": 1 }
+        ]
       }
     ]
   },
