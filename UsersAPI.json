@@ -81,7 +81,7 @@
         "content": "",
         "answers": [
           { "id": "a1", "text": "Joke", "votes": 2 },
-          { "id": "a2", "text": "Yes", "votes": 3 },
+          { "id": "a2", "text": "Yes", "votes": 3 }
         ]
       }
     ]
