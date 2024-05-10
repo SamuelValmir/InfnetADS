@@ -72,6 +72,17 @@
           { "id": "a2", "text": "Yes", "votes": 3 },
           { "id": "a3", "text": "Maybe", "votes": 1 }
         ]
+      },
+      {
+        "id": "t5",
+        "tag": "fun",
+        "owner": "Lucas",
+        "topic": "Tell me a joke",
+        "content": "",
+        "answers": [
+          { "id": "a1", "text": "Joke", "votes": 2 },
+          { "id": "a2", "text": "Yes", "votes": 3 },
+        ]
       }
     ]
   }
