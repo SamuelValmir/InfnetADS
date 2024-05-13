@@ -13,6 +13,7 @@
         "topic": "How can I solve it?",
         "content":
           "I've tried so many times but the bug remains though! I'm tired, I swear!",
+        "creationDate": "05/04/2024",
         "answers": [
           { "id": "a1", "text": "Try this", "votes": 4 },
           { "id": "a2", "text": "Do that", "votes": 3 },
@@ -30,6 +31,7 @@
         "topic": "Anyone use this?",
         "content":
           "I'm a beginner",
+        "creationDate": "06/04/2024",
         "answers": [
           { "id": "a1", "text": "I've never used before!", "votes": 0 },
           { "id": "a2", "text": "Not the best tool", "votes": 2 },
@@ -46,6 +48,7 @@
         "owner": "unknow",
         "topic": "1000 - 7",
         "content": "",
+        "creationDate": "06/04/2024",
         "answers": [
           { "id": "a1", "text": "Oshiette yo!", "votes": 23 },
           { "id": "a2", "text": "993", "votes": 3 },
@@ -67,6 +70,7 @@
         "owner": "unknow",
         "topic": "Is there bread in sky?",
         "content": "",
+        "creationDate": "07/04/2024",
         "answers": [
           { "id": "a1", "text": "No", "votes": 1 },
           { "id": "a2", "text": "Yes", "votes": 3 },
@@ -79,6 +83,7 @@
         "owner": "Lucas",
         "topic": "Tell me a joke",
         "content": "",
+        "creationDate": "07/04/2024",
         "answers": [
           { "id": "a1", "text": "Joke", "votes": 2 },
           { "id": "a2", "text": "Yes", "votes": 3 }
