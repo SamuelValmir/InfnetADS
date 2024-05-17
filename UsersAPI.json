@@ -1,100 +1,180 @@
 {
-  "lastThreadId": "t5",
-  "lastAnswerId": "a14",
-  "users": [
-    {
-      "id": "u1",
-      "name": "Switch",
-      "loggedIn": true,
-      "email": "Switch@gmail.com",
-      "password": "1234",
-      "threads": [
+    "lastThreadId": "t5",
+    "lastAnswerId": "a14",
+    "users": [
         {
-          "id": "t1",
-          "tag": "tech",
-          "owner": "Switch",
-          "topic": "How can I solve it?",
-          "content":
-            "I've tried so many times but the bug remains though! I'm tired, I swear!",
-          "creationDate": "05/04/2024",
-          "answers": [
-            { "owner": "Rafael", "sentDate": "05/04/2024","id": "a1", "text": "Try this", "votes": 4 },
-            { "owner": "Lucas", "sentDate": "05/04/2024","id": "a2", "text": "Do that", "votes": 3 },
-            {
-              "owner": "Susan", "sentDate": "06/04/2024",
-              "id": "a3",
-              "text": "I've got the same problem here. I decided to change my platform so that I can make it easier. No more problems, so I recomend that for u too :)",
-              "votes": 10
-            }
-          ]
+            "id": "u1",
+            "name": "Switch",
+            "loggedIn": true,
+            "email": "Switch@gmail.com",
+            "password": "1234",
+            "threads": [
+                {
+                    "id": "t1",
+                    "tag": "tech",
+                    "owner": "Switch",
+                    "topic": "How can I solve it?",
+                    "content": "I've tried so many times but the bug remains though! I'm tired, I swear!",
+                    "creationDate": "05/04/2024",
+                    "answers": [
+                        {
+                            "owner": "Rafael",
+                            "sentDate": "05/04/2024",
+                            "id": "a1",
+                            "text": "Try this",
+                            "votes": 4
+                        },
+                        {
+                            "owner": "Lucas",
+                            "sentDate": "05/04/2024",
+                            "id": "a2",
+                            "text": "Do that",
+                            "votes": 3
+                        },
+                        {
+                            "owner": "Susan",
+                            "sentDate": "06/04/2024",
+                            "id": "a3",
+                            "text": "I've got the same problem here. I decided to change my platform so that I can make it easier. No more problems, so I recomend that for u too :)",
+                            "votes": 10
+                        }
+                    ]
+                },
+                {
+                    "id": "t2",
+                    "tag": "tech",
+                    "owner": "Rafael",
+                    "topic": "Anyone use this?",
+                    "content": "I'm a beginner",
+                    "creationDate": "06/04/2024",
+                    "answers": [
+                        {
+                            "owner": "Susan",
+                            "sentDate": "06/04/2024",
+                            "id": "a4",
+                            "text": "I've never used before!",
+                            "votes": 0
+                        },
+                        {
+                            "owner": "Lucas",
+                            "sentDate": "06/04/2024",
+                            "id": "a5",
+                            "text": "Not the best tool",
+                            "votes": 2
+                        },
+                        {
+                            "owner": "Rafael",
+                            "sentDate": "06/04/2024",
+                            "id": "a6",
+                            "text": "I like it!",
+                            "votes": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "t3",
+                    "tag": "fun",
+                    "owner": "unknow",
+                    "topic": "1000 - 7",
+                    "content": "",
+                    "creationDate": "06/04/2024",
+                    "answers": [
+                        {
+                            "owner": "Switch",
+                            "sentDate": "06/04/2024",
+                            "id": "a7",
+                            "text": "Oshiette yo!",
+                            "votes": 23
+                        },
+                        {
+                            "owner": "Lucas",
+                            "sentDate": "07/04/2024",
+                            "id": "a8",
+                            "text": "993",
+                            "votes": 3
+                        },
+                        {
+                            "owner": "Susan",
+                            "sentDate": "07/04/2024",
+                            "id": "a9",
+                            "text": "Hummm",
+                            "votes": 1
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "id": "t2",
-          "tag": "tech",
-          "owner": "Rafael",
-          "topic": "Anyone use this?",
-          "content":
-            "I'm a beginner",
-          "creationDate": "06/04/2024",
-          "answers": [
-            { "owner": "Susan", "sentDate": "06/04/2024","id": "a4", "text": "I've never used before!", "votes": 0 },
-            { "owner": "Lucas", "sentDate": "06/04/2024","id": "a5", "text": "Not the best tool", "votes": 2 },
-            {
-              "owner": "Rafael", "sentDate": "06/04/2024",
-              "id": "a6",
-              "text": "I like it!",
-              "votes": 5
-            }
-          ]
+            "id": "u2",
+            "name": "Lucas",
+            "loggedIn": false,
+            "email": "Lucas@gmail.com",
+            "password": "lulucaca",
+            "threads": [
+                {
+                    "id": "t4",
+                    "tag": "fun",
+                    "owner": "unknow",
+                    "topic": "Is there bread in sky?",
+                    "content": "",
+                    "creationDate": "07/04/2024",
+                    "answers": [
+                        {
+                            "owner": "Switch",
+                            "sentDate": "07/04/2024",
+                            "id": "a10",
+                            "text": "No",
+                            "votes": 1
+                        },
+                        {
+                            "owner": "Switch",
+                            "sentDate": "07/04/2024",
+                            "id": "a11",
+                            "text": "Yes",
+                            "votes": 3
+                        },
+                        {
+                            "owner": "Lucas",
+                            "sentDate": "07/04/2024",
+                            "id": "a12",
+                            "text": "Maybe",
+                            "votes": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "t5",
+                    "tag": "fun",
+                    "owner": "Lucas",
+                    "topic": "Tell me a joke",
+                    "content": "",
+                    "creationDate": "07/04/2024",
+                    "answers": [
+                        {
+                            "owner": "Susan",
+                            "sentDate": "07/04/2024",
+                            "id": "a13",
+                            "text": "Joke",
+                            "votes": 2
+                        },
+                        {
+                            "owner": "Rafael",
+                            "sentDate": "07/04/2024",
+                            "id": "a14",
+                            "text": "Yes",
+                            "votes": 3
+                        }
+                    ]
+                }
+            ]
         },
-         {
-          "id": "t3",
-          "tag": "fun",
-          "owner": "unknow",
-          "topic": "1000 - 7",
-          "content": "",
-          "creationDate": "06/04/2024",
-          "answers": [
-            { "owner": "Switch", "sentDate": "06/04/2024","id": "a7", "text": "Oshiette yo!", "votes": 23 },
-            { "owner": "Lucas", "sentDate": "07/04/2024","id": "a8", "text": "993", "votes": 3 },
-            { "owner": "Susan", "sentDate": "07/04/2024","id": "a9", "text": "Hummm", "votes": 1 }
-          ]
+        {
+            "id": "u3",
+            "name": "User1",
+            "loggedIn": true,
+            "email": "User1@gmail.com",
+            "password": "User1",
+            "threads": []
         }
-      ]
-    },
-    {
-      "id": "u2",
-      "name": "Lucas",
-      "loggedIn": false,
-      "email": "Lucas@gmail.com",
-      "password": "lulucaca",
-      "threads": [
-        {
-          "id": "t4",
-          "tag": "fun",
-          "owner": "unknow",
-          "topic": "Is there bread in sky?",
-          "content": "",
-          "creationDate": "07/04/2024",
-          "answers": [
-            { "owner": "Switch", "sentDate": "07/04/2024","id": "a10", "text": "No", "votes": 1 },
-            { "owner": "Switch", "sentDate": "07/04/2024","id": "a11", "text": "Yes", "votes": 3 },
-            { "owner": "Lucas", "sentDate": "07/04/2024","id": "a12", "text": "Maybe", "votes": 1 }
-          ]
-        },
-        {
-          "id": "t5",
-          "tag": "fun",
-          "owner": "Lucas",
-          "topic": "Tell me a joke",
-          "content": "",
-          "creationDate": "07/04/2024",
-          "answers": [
-            { "owner": "Susan", "sentDate": "07/04/2024","id": "a13", "text": "Joke", "votes": 2 },
-            { "owner": "Rafael", "sentDate": "07/04/2024","id": "a14", "text": "Yes", "votes": 3 }
-          ]
-        }
-      ]
-    }
-  ]
+    ]
 }
