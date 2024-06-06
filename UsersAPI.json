@@ -1,12 +1,12 @@
 {
     "lastThreadId": "t5",
     "lastAnswerId": "a14",
+    "lastUserId": "u3",
     "users": [
         {
             "id": "u1",
             "name": "Switch",
             "loggedIn": true,
-            "email": "Switch@gmail.com",
             "password": "1234",
             "threads": [
                 {
@@ -108,7 +108,6 @@
             "id": "u2",
             "name": "Lucas",
             "loggedIn": false,
-            "email": "Lucas@gmail.com",
             "password": "lulucaca",
             "threads": [
                 {
@@ -172,7 +171,6 @@
             "id": "u3",
             "name": "User1",
             "loggedIn": true,
-            "email": "User1@gmail.com",
             "password": "User1",
             "threads": []
         }
